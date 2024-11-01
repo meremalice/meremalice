@@ -1,16 +1,26 @@
-## Hi there 👋
+![Laptop GIF](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
 
-<!--
-**meremalice/meremalice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hey there! I'm Manjot 
 
-Here are some ideas to get you started:
+🌌 **Welcome to my GitHub Universe!**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 **Passionate about Customization & User Experience**  
+I’m fascinated by the endless customization possibilities in web development, with a focus on creating intuitive user experiences.
+
+🛠️ **Skills & Tools**  
+![HTML](https://img.shields.io/badge/HTML-🟧-orange)
+![CSS](https://img.shields.io/badge/CSS-💙-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-💛-yellow)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-🌊-blue)
+![DaisyUI](https://img.shields.io/badge/DaisyUI-🌸-pink)
+![React](https://img.shields.io/badge/React-⚛️-blue)
+
+🌐 **Project Spotlight**: *"It'll Be Okay"*  
+Creating a website focused on relaxation, featuring **breathing exercises, positive affirmations, and relaxing games**. Built with **HTML, CSS (Vanilla & Tailwind/DaisyUI)**, and **JavaScript**, with some **React** experimentation.
+
+🔍 **Exploring Front-End, Back-End, & Full-Stack**  
+I’m diving into all areas of development to find where my strengths truly align!
+
+---
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
